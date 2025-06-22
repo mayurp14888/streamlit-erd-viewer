@@ -1,12 +1,7 @@
 # Streamlit for Snowflake
 
-All demo code for my Udemy course [**Streamlit for Snowflake Masterclass 2024 Hands-On!**](https://www.udemy.com/course/streamlit-for-snowflake/?couponCode=BEST-PRICE). Refer to individual sections for local documentation.
 
-[![Udemy Course](.images/udemy-course.png)](https://www.udemy.com/course/streamlit-for-snowflake/?couponCode=BEST-PRICE)
 
-## My Promo Video
-
-[![Watch Here](.images/youtube-promo.png)](https://www.youtube.com/watch?v=sLf70UrbIh4)
 
 ## (1) Testing Local Streamlit Web Apps
 
